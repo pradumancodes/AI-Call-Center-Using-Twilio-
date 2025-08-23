@@ -45,7 +45,11 @@ ai-call-center/
 
 
 ## 📸 Screenshots
-Dashboard ( <img width="1196" height="559" alt="Screenshot 2025-08-21 161918" src="https://github.com/user-attachments/assets/b7d9ce22-3a66-44ba-96ab-3bc6f0772161" /> )
+Dashboard  <img width="1711" height="665" alt="Screenshot 2025-08-21 161939" src="https://github.com/user-attachments/assets/1280e26e-9e4b-4c14-8c3e-c557d6688682" />
+GET Dashboard <img width="1736" height="810" alt="Screenshot 2025-08-21 162103" src="https://github.com/user-attachments/assets/4794699f-af62-42c5-ac31-4ca71bcf1ee8" />
+Twilio Active Number <img width="1578" height="618" alt="Screenshot 2025-08-21 162251" src="https://github.com/user-attachments/assets/8832a4e7-16e1-48f2-83ca-7e285bb52efd" />
+
+
 
 
 
