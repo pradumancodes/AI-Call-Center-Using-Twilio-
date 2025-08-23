@@ -5,7 +5,7 @@
 
 ![status-badge](https://img.shields.io/badge/status-prototype-blue)
 ![stack-badge](https://img.shields.io/badge/stack-Node.js%20%7C%20Express%20%7C%20Twilio%20%7C%20ngrok-success)
-![license-badge](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 ---
 
